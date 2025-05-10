@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a [walkthrough of implemented features](https://imgur.com/a/codepath-web102-pre-work-7en8Ias).
+Here's a [walkthrough of implemented features](https://imgur.com/a/XLaiGHt).
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/)
